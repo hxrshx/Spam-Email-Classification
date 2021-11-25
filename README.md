@@ -16,7 +16,7 @@
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
 | 4 | [Data Set](#Data-Set) |
-| 6 | [Presentation] (https://www.canva.com/design/DAEvH7TQZ_s/E96KT8zHFBTinhrXUtqKKQ/view?utm_content=DAEvH7TQZ_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+| 6 | [Presentation] (https://www.canva.com/design/DAEvH7TQZ_s/E96KT8zHFBTinhrXUtqKKQ/view?utm_content=DAEvH7TQZ_s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) |
 | 5 | [Contributors](#Contributors) | 
 
 </div>
